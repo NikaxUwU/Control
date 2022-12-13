@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UwU\\Desktop\\Новая папка\\Новая папка.csproj": {}
+    "C:\\Users\\UwU\\Desktop\\Новая папка\\Работа\\Новая папка.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UwU\\Desktop\\Новая папка\\Новая папка.csproj": {
+    "C:\\Users\\UwU\\Desktop\\Новая папка\\Работа\\Новая папка.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UwU\\Desktop\\Новая папка\\Новая папка.csproj",
+        "projectUniqueName": "C:\\Users\\UwU\\Desktop\\Новая папка\\Работа\\Новая папка.csproj",
         "projectName": "Новая папка",
-        "projectPath": "C:\\Users\\UwU\\Desktop\\Новая папка\\Новая папка.csproj",
+        "projectPath": "C:\\Users\\UwU\\Desktop\\Новая папка\\Работа\\Новая папка.csproj",
         "packagesPath": "C:\\Users\\UwU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UwU\\Desktop\\Новая папка\\obj\\",
+        "outputPath": "C:\\Users\\UwU\\Desktop\\Новая папка\\Работа\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UwU\\AppData\\Roaming\\NuGet\\NuGet.Config"
