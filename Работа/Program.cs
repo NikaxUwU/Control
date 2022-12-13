@@ -5,6 +5,24 @@
     return ar;
 }
 
+
+string[] FindThreeSim(string[] MyArray, int n) 
+{
+    string[] res = new string[Size(MyArray, n)];
+
+    for(int i = 0, j = 0; i < MyArray.Length; i++) 
+    {
+        if(MyArray[i].Length <= n) 
+        {
+            res[j] = MyArray[i];
+            j++;
+        }
+    }
+
+    return res;
+}
+
+
 int Size(string[] MyArray, int n) 
 {
     int num = 0;
@@ -20,4 +38,5 @@ int Size(string[] MyArray, int n)
 
 
 string[] MyArray = ReadArray();
-Console.WriteLine($"[{string.Join(" ", MyArray)}]");
+string[] result = FindThreeSim(MyArray, 3);
+Console.WriteLine($"[{string.Join(", ", MyArray)}] -> [{string.Join(", ", result)}]");
